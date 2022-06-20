@@ -11,22 +11,25 @@ I cannnot hear voice call taking it's time
 git commands!!!!!
 
 USEFUL
-git statusclear
+git status               : checks the status of the file open, in the current branch
+git diff (branch name)   : compares it to current branch
+git branch               : check which branch you are using and lists the other branches
 
 
 
-git init
-git commit
-git push
-git checkout (branch name)
-git branch (branch name)
 
-# 3 step process
+COMMON
+git checkout (branch name) :
+git branch (branch name)   :
+
+3 STEP PROCESS
 git add
 git commit
 git push
 
 
+OTHER
+git init                 : intialise a repository (folder)
 
 big program, 20 people
 derek starts creating a function to sort the tokens
