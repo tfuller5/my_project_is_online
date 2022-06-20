@@ -1,15 +1,35 @@
 git repository: folder with stuff in
-
-
+remote repository: folder with stuff in (on the internet!)
+asdf
+asdf
+as
+df
+asdf
+asd
+fasdf
+I cannnot hear voice call taking it's time
 git commands!!!!!
 
 USEFUL
-git status
-git branch
+git status               : checks the status of the file open, in the current branch
+git diff (branch name)   : compares it to current branch
+git branch               : check which branch you are using and lists the other branches
 
 
-git init
 
+
+COMMON
+git checkout (branch name) : switches the branch you are using
+git branch (branch name)   : creating a branch named (branch name)
+
+3 STEP PROCESS
+git add
+git commit
+git push
+
+
+OTHER
+git init                 : intialise a repository (folder)
 
 big program, 20 people
 derek starts creating a function to sort the tokens
