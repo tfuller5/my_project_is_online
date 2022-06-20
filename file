@@ -25,7 +25,12 @@ git branch (branch name)   : creating a branch named (branch name)
 3 STEP PROCESS
 git add
 git commit
-git push
+git push origin christian
+
+https://github.com/tfuller5/my_project_is_online/pull/new/tom
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
 OTHER
