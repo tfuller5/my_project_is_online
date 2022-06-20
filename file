@@ -1,14 +1,31 @@
 git repository: folder with stuff in
-
-
+remote repository: folder with stuff in (on the internet!)
+asdf
+asdf
+as
+df
+asdf
+asd
+fasdf
+I cannnot hear voice call taking it's time
 git commands!!!!!
 
 USEFUL
-git status
-git branch
+git statusclear
+
 
 
 git init
+git commit
+git push
+git checkout (branch name)
+git branch (branch name)
+
+# 3 step process
+git add
+git commit
+git push
+
 
 
 big program, 20 people
