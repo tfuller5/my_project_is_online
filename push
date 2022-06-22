@@ -1,0 +1,6 @@
+# 4 step process
+git add
+git commit
+git push            : pushing to your own online branch
+create a pull request (from remote chris branch to remote main branch)
+                       (done through the website)

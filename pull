@@ -1,0 +1,7 @@
+# 5 Step process
+git remote update     : if there are changes made online (remote)
+git checkout main     : changes to main branch
+git pull origin main  : take updates from the remote main branch
+git checkout chris    : change to your branch
+git merge main        : update your branch
+

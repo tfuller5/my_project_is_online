@@ -16,6 +16,7 @@ git diff (branch name)   : compares it to current branch
 git branch               : check which branch you are using and lists the other branches
 
 
+git remote update
 
 
 COMMON
